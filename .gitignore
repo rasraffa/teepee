@@ -1,0 +1,19 @@
+# ignore pictures
+*.png
+*.pdf
+
+# ignore packages
+*.dmg
+*.gz
+*.tar
+*.zip
+
+# ignore OS generated files
+*.DS_Store
+
+# ignore raw data
+*.RData
+*.txt
+*.csv
+*.xls
+*.xlsx
